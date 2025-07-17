@@ -55,7 +55,7 @@ The `eCommerce Store Visualization.pbix` includes:
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/your-username/ecommerce-orders-visualization.git
+   git clone https://github.com/rashmisjoshi/eCommerce-Dataset-Analysis-Visualization
    ```
 2. Open the `.pbix` file in Power BI Desktop.
 3. Use filters, slicers, and visuals to explore the dataset.
